@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+a img {
+    position: fixed;
+    bottom: 10vmin;
+    left: 50vw;
+   width: 35vmax;
+   height: 45vmin;
+}
+div a {
+    position: fixed;
+    font-size: 20px;
+    bottom: 56vmin;
+    left: 50vw;
+    color: red;
+}
+p {
+    font-size: 5vmin;
+}
